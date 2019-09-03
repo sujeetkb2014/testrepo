@@ -1,0 +1,4 @@
+---
+- name: This is test playbook
+  debug:
+    msg: "This is test playbook"
